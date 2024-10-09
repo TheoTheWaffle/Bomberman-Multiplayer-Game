@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Bombex.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Všechny soubory (*)",
+    "fileStates": {
+        "Bombex.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 659,
+                "y": -86
+            }
+        },
+        "ESSS.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/teodu/Downloads",
+    "map.height": 25,
+    "map.lastUsedFormat": "tmx",
+    "map.width": 50,
+    "openFiles": [
+        "Bombex.tmx",
+        "ESSS.tsx"
+    ],
+    "project": "Bomberman.tiled-project",
+    "recentFiles": [
+        "ESSS.tsx",
+        "Bombex.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
