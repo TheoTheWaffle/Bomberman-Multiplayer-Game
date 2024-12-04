@@ -3,37 +3,58 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Bombex.tmx",
+    "activeFile": "mapa2.tmx",
     "expandedProjectPaths": [
         "."
     ],
     "file.lastUsedOpenFilter": "Všechny soubory (*)",
     "fileStates": {
         "Bombex.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "expandedObjectLayers": [
+                11
+            ],
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 659,
-                "y": -86
+                "x": 798.4848484848485,
+                "y": 398.4848484848484
             }
         },
-        "ESSS.tsx": {
-            "scaleInDock": 1,
+        "C:/Users/teodu/Downloads/LPC_Terrain/Terrain.tsx": {
+            "scaleInDock": 0.5,
             "scaleInEditor": 1
+        },
+        "ESSS.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 0.5
+        },
+        "mapa2.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 686,
+                "y": 626
+            }
         }
     },
     "last.imagePath": "C:/Users/teodu/Downloads",
-    "map.height": 25,
+    "map.height": 32,
     "map.lastUsedFormat": "tmx",
-    "map.width": 50,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 60,
     "openFiles": [
         "Bombex.tmx",
-        "ESSS.tsx"
+        "ESSS.tsx",
+        "mapa2.tmx",
+        "C:/Users/teodu/Downloads/LPC_Terrain/Terrain.tsx"
     ],
     "project": "Bomberman.tiled-project",
     "recentFiles": [
+        "Bombex.tmx",
         "ESSS.tsx",
-        "Bombex.tmx"
+        "C:/Users/teodu/Downloads/LPC_Terrain/Terrain.tsx",
+        "mapa2.tmx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
